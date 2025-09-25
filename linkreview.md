@@ -1,5 +1,5 @@
 | Название | Год | Автор | Ссылка | Краткое содержание | Релевантность |
-| -------- |---- | ----- | ------ | ---- |
+| -------- |---- | ----- | ------ | ---------------- | --- |
 | Systematic Task Exploration with LLMs: A Study in Citation Text Generation| 2024 | Furkan¸Sahinuç, Ilia Kuznetsov, Yufang Hou, Iryna Gurevych | [link](https://arxiv.org/pdf/2407.04046)| Предложен поход к решению задачи генерации текста цитирования одной статьи с использованием намерений цитирования: заданных и свободных, проведено детальное сравнение подходов, промптов, а так же датасет и метрики | ДА|
 | Deep learning meets bibliometrics: A survey of citation function classification | 2025 | Yang Zhang a b, Yufei Wang a, Quan Z. Sheng a, Lina Yao e a, Haihua Chen b, Kai Wang d, Adnan Mahmood a, Wei Emma Zhang f, Munazza Zaib a, Subhash Sagar a, Rongying Zhao cu | [link](https://www.sciencedirect.com/science/article/pii/S1751157724001202)| Обзорная статья по задаче классификации цитирований по их функции| НЕТ |
 |SciReviewGen: A Large-scale Dataset for Automatic Literature Review Generation | 2023 | Tetsu Kasanishi, Masaru Isonuma, Junichiro Mori, Ichiro Sakata | [link](https://aclanthology.org/2023.findings-acl.418/) | Датасет для задачи генерации обзоров литературы | ДА |
